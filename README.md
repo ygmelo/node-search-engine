@@ -7,11 +7,13 @@ Node.js 15.3.0
 
 NPM 7.0.14
 
+
 **Ambientes**
 
 Windows 10 
 
 Ubuntu 18.04.2 LTS 
+
 
 ## Instalação
 ```sh
