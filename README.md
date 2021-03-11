@@ -39,7 +39,7 @@ Passar no corpo da requisição as datas de entrada e saída:
 O resultado esperado será um array de objetos, aonde cada um deste corresponderá a um quarto disponível no período informado.
 
 ## Testes - Jest
-Para teste automatizado da funcionalidade de busca, execute o comando abaixo:
+Para teste automatizado da funcionalidade de busca:
 ```sh
 npm test
 ```
