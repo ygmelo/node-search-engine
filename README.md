@@ -1,11 +1,13 @@
 # Case Node - Search Engine
 Programa desenvolvido em Node.JS, com o objetivo de resgatar dados/informações através de uma página da web.
 
+
 **Versões usadas no projeto**
 
 Node.js 15.3.0
 
 NPM 7.0.14
+
 
 
 **Ambientes**
