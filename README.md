@@ -2,7 +2,7 @@
 Programa desenvolvido em Node.JS, com o objetivo de resgatar dados/informações através de uma página da web.
 
 
-**Versões usadas no projeto**
+**Versões**
 
 Node.js 15.3.0
 
@@ -39,7 +39,7 @@ Passar no corpo da requisição as datas de entrada e saída:
 O resultado esperado será um array de objetos, aonde cada um deste corresponderá a um quarto disponível no período informado.
 
 ## Testes - Jest
-Para testar a funcionalidade de busca, execute o comando abaixo:
+Para teste automatizado da funcionalidade de busca, execute o comando abaixo:
 ```sh
 npm test
 ```
